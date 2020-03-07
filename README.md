@@ -2,6 +2,8 @@
 
 This repository contains a simple multiplayer game that was built using Socket.io and NodeJs.
 
+![Preview Image](public/img/game-preview.png)
+
 I created this repository following the instructions of this playlist: https://www.youtube.com/watch?v=0sTfIZvjYJk&list=PLMdYygf53DP5SVQQrkKCVWDS0TwYLVitL
 
 **Credits:** Filipe Deschamps (https://github.com/filipedeschamps)
